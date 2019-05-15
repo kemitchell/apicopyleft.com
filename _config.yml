@@ -1,0 +1,12 @@
+title: API Copyleft License
+description: an open source license that's copyleft for changes, additions, and wrappers, but permissive for applications
+url: https://apicopyleft.com
+homepage: https://apicopyleft.com
+exclude:
+  - CNAME
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+collections:
+  versions:
+    output: true

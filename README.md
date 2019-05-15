@@ -1,1 +1,0 @@
-# API Copyleft License
